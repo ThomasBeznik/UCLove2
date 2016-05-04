@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCLove2</string>
+    <string name="btn_en">Anglais</string>
+    <string name="btn_fr">Français</string>
+    <string name="change_lang">Langue:</string>
+    <string name="psw_enter">Entrer</string>
+    <string name="settings">Préférences</string>
+    <string name="psw_change">Modifier mot de passe:</string>
+    <string name="psw_new">Nouveau mot de passe</string>
+    <string name="psw_old">Ancien mot de passe</string>
+    <string name="psw_right">Mot de passe changé!</string>
+    <string name="psw_wrong">Mauvais mot de passe!</string>
+</resources>
